@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Better+the+devil+you+know!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=10">
 </p>
 
-![MasterHead](https://mcdn.wallpapersafari.com/medium/92/67/xhg7O9.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhpnonline.org%2Fvideo-game-pixel-art-gif-3419698.html&psig=AOvVaw0iu2uZD08agN4GWYfS_G7s&ust=1715256461097000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCbmLiC_oUDFQAAAAAdAAAAABAE)
 <!--
 
 
