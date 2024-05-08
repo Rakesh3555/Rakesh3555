@@ -1,7 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Better+the+devil+you+know!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=10">
+</p>
 
+![MasterHead](https://mcdn.wallpapersafari.com/medium/92/67/xhg7O9.gif)
 <!--
-**Rakesh3555/Rakesh3555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
